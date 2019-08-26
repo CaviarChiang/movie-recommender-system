@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 import java.io.IOException;
 
-/**CHAPTER 4: Lesson Learnt on Recommender System - 1st mapreduce job
+/** 1st mapreduce job
  * 0. Task: for a specific user, assemble all its movie ratings (a user represents a line)
  *    rawInput format: user,movie,rating
  *      output format: userid\tmovie1:rating1,movie2:rating2,movie3:rating3,...

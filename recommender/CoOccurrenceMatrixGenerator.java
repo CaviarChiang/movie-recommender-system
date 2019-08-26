@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 import java.io.IOException;
 
-/**CHAPTER 4: Lesson Learnt on Recommender System - 2nd mapreduce job
+/** 2nd mapreduce job
  * 0. Task: create movie co-occurrence matrix **regardless of users and ratings**; each row represents a cell in co-matrix
  *    rawInput format: userid\tmovie1:rating1,movie2:rating2,movie3:rating3,...
  *      output format: movie1:movie2\t2

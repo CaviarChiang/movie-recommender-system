@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 import java.io.IOException;
 
-/**CHAPTER 4: Lesson Learnt on Recommender System - 5th mapreduce job
+/** 5th mapreduce job
  * 0. Task: Sum the cells that have the same key/tag
  *    rawInput format: user1:movie1\trating1*relation1
  *      output format: user1:movie1\tsum

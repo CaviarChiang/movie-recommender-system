@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**CHAPTER 3: Lesson Learnt on PageRank
+/** PageRank
  *
  * 1. 1st mapreduce job
  *

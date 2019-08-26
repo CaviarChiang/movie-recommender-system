@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**CHAPTER 4: Lesson Learnt on Recommender System - 3rd mapreduce job
+/** 3rd mapreduce job
  * 0. Task: Normalize the co-occurrence matrix and **output the transposed column vector**
  *    rawInput format: movie1:movie2\t2
  *      output format: movie2\tmovie1=2/8

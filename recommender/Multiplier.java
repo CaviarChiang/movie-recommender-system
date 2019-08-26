@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**CHAPTER 4: Lesson Learnt on Recommender System - 4th mapreduce job
+/** 4th mapreduce job
  * 0. Task: To multiply normalized co-occurrence matrix and user-rating matrix, perform cell multiplication
  *    rawInput format: movie2\tmovie1=2/8
  *                     user,movie,rating

@@ -1,6 +1,6 @@
 package recommender;
 
-/**CHAPTER 4: Lesson Learnt on Recommender System - Driver
+/** Driver
  * 0. Task: Initialize mapreduce jobs' classes
  *          Specify which args go to where
  *          Pass args to mapreduce jobs' main method
